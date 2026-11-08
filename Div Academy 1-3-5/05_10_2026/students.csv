@@ -1,0 +1,7 @@
+name,age,score,city,gender,department,experience_years,salary,is_employed,email
+Ali,21.0,85.0,Baku,Male,IT,1.0,800,True,ali@gmail.com
+Leyla,24.0,92.0,Ganja,Female,Finance,3.0,1200,True,leyla@gmail.com
+Murad,,78.0,Baku,Male,,2.0,950,False,murad@gmail.com
+Nigar,26.0,,Sumgait,Female,Marketing,4.0,1500,True,nigar@gmail.com
+Samir,23.0,88.0,,Male,IT,,1100,,samir@gmail.com
+Samir,23.0,88.0,,Male,IT,,1100,,samir@gmail.com
